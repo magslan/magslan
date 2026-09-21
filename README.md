@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Maggie
 
-<!--
-**magslan/magslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Communication researcher, trained in traditional quantitative methods,
+now learning NLP and computational skills.
 
-Here are some ideas to get you started:
+## Why I'm here?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some research questions arrive by accident: in the bath, while skimming a report, or halfway through a conversation.
+They intrigue me and refuse to leave, but many lie beyond what my current skills can answer.
+
+心有餘而力不足啊...
+
+This GitHub is where I hope to close that gap.
+
+## So I'm learning by...
+- Sitting in on a faculty colleague's NLP workshops and reading his lecture slides (He's very generous!)
+- Collaborating with research assistants who bring data science skills (They're my teachers as well!)
+- Talking through code and concepts with AI chatbots (Thank you, ChatGPT! Thank you, Claude!)
+
+Let's see what happens. 🌱
