@@ -1,8 +1,7 @@
 My interests are increasingly taking me\
 into NLP and computational methods,
 
-but research ideas have a habit\
-of crashing into my brain\
+but research ideas have a habit of crashing into my brain\
 faster than my skills can keep up.
 
 心有餘而力不足...
