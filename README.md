@@ -1,20 +1,14 @@
-Hi, I'm Maggie
+My interests are increasingly taking me\
+into NLP and computational methods,
 
-Communication researcher, trained in traditional quantitative methods,
-now learning NLP and computational skills.
+but research ideas have a habit\
+of crashing into my brain\
+faster than my skills can keep up.
 
-Why I'm here?
+心有餘而力不足...
 
-Some research questions arrive by accident: in the bath, while skimming a report, or halfway through a conversation.
-They intrigue me and refuse to leave, but many lie beyond what my current skills can answer.
+So I’m using GitHub\
+as one of the fronts\
+where I hope to close that gap.
 
-心有餘而力不足啊...
-
-This GitHub is where I hope to close that gap.
-
-So I'm learning by...
-- Sitting in on a faculty colleague's NLP workshops and reading his lecture slides (He's very generous!)
-- Collaborating with research assistants who bring data science skills (They're my teachers as well!)
-- Talking through code and concepts with AI chatbots (Thank you, ChatGPT! Thank you, Claude!)
-
-Let's see what happens. 🌱
+Let’s see what happens.
