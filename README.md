@@ -1,10 +1,3 @@
-My interests are increasingly taking me\
-into NLP and computational methods,
-
-but research ideas have a habit of crashing into my brain\
-faster than my skills can keep up.
-
-So I’m using GitHub\
-as one of the fronts where I hope to close that gap.
-
+My interests are increasingly taking me into NLP and computational methods, but research ideas have a habit of crashing into my brain faster than my skills can keep up.
+So I’m using GitHub as one of the fronts where I hope to close that gap.
 Let’s see what happens.
