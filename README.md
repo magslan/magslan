@@ -7,7 +7,6 @@ faster than my skills can keep up.
 心有餘而力不足...
 
 So I’m using GitHub\
-as one of the fronts\
-where I hope to close that gap.
+as one of the fronts where I hope to close that gap.
 
 Let’s see what happens.
